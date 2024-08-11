@@ -11,7 +11,7 @@ This project is a simple password generator that helps users create secure passw
 ## Technologies
 
 - HTML
-- JavaScript:
+- JavaScript
 
 # Password Generator
 
@@ -26,4 +26,8 @@ Bu proje, kullanıcıların güvenli şifreler oluşturmasına yardımcı olan b
 ## Teknolojiler
 
 - HTML
-- JavaScript: 
+- JavaScript
+
+https://github.com/user-attachments/assets/8da7c013-7364-4022-af48-d4984ebf3303
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/Random-Password-Generator/)
