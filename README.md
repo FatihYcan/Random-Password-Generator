@@ -6,11 +6,11 @@ This project is a simple JavaScript implementation to generate a random password
 
 - **Password Length**: 10 characters
 - **Required Characters**:
-- 1 uppercase letter
-- 1 lowercase letter
-- 3 digits
-- 2 pairs of symbols
-- 1 single symbol
+  - 1 uppercase letter
+  - 1 lowercase letter
+  - 3 digits
+  - 2 pairs of symbols
+  - 1 single symbol
 - **Random Characters**: The rest of the password contains randomly selected upper/lowercase letters, numbers and symbols.
 
 ## Technologies Used
