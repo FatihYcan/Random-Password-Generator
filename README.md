@@ -1,31 +1,43 @@
 # Password Generator
 
-This project is a simple password generator that helps users create secure passwords. It was developed using HTML and JavaScript to run in your web browser.
+This project is a simple JavaScript implementation to generate a random password. The user can obtain a secure and random password by clicking the 'Generate a password' button. The password contains uppercase letters, lowercase letters, numbers and symbols and produces a different password each time.
 
 ## Features
 
-- **Random Password Generation**: Generates random passwords from certain character sets.
-- **Character Diversity**: Passwords contain uppercase letters, lowercase letters, numbers and symbols.
-- **Customizable**: Password length and character types can be easily adjusted.
+- **Password Length**: 10 characters
+- **Required Characters**:
+- 1 uppercase letter
+- 1 lowercase letter
+- 3 digits
+- 2 pairs of symbols
+- 1 single symbol
+- **Random Characters**: The rest of the password contains randomly selected upper/lowercase letters, numbers and symbols.
 
-## Technologies
+## Technologies Used
 
-- HTML
+- HTML5
+- CSS3
 - JavaScript
 
 # Password Generator
 
-Bu proje, kullanıcıların güvenli şifreler oluşturmasına yardımcı olan basit bir şifre üreticisidir. Web tarayıcınızda çalışacak şekilde HTML ve JavaScript kullanılarak geliştirilmiştir.
+Bu proje, rastgele bir şifre oluşturmak için basit bir JavaScript uygulamasıdır. Kullanıcı, "Generate a password" düğmesine tıklayarak güvenli ve rastgele bir şifre elde edebilir. Şifre, büyük harfler, küçük harfler, sayılar ve semboller içerir ve her seferinde farklı bir şifre üretir.
 
 ## Özellikler
 
-- **Rastgele Şifre Üretimi**: Belirli karakter setlerinden rastgele şifreler oluşturur.
-- **Karakter Çeşitliliği**: Şifrelerde büyük harfler, küçük harfler, sayılar ve semboller bulunur.
-- **Özelleştirilebilir**: Şifre uzunluğu ve karakter türleri kolayca ayarlanabilir.
+- **Şifre Uzunluğu**: 10 karakter
+- **Gerekli Karakterler**:
+  - 1 büyük harf
+  - 1 küçük harf
+  - 3 rakam
+  - 2 çift sembol
+  - 1 tek sembol
+- **Rastgele Karakterler**: Şifrenin geri kalanı rastgele seçilmiş büyük/küçük harfler, sayılar ve semboller içerir.
 
-## Teknolojiler
+## Kullanılan Teknolojiler
 
-- HTML
+- HTML5
+- CSS3
 - JavaScript
 
 https://github.com/user-attachments/assets/8da7c013-7364-4022-af48-d4984ebf3303
